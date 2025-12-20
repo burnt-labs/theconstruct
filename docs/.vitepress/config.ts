@@ -32,6 +32,7 @@ export default defineConfig({
         items: [
           { text: 'Using Linear', link: '/processes/linear' },
           { text: 'Project Updates', link: '/processes/project-updates' },
+          { text: 'Project Lifecycle', link: '/processes/project-lifecycle' },
           { text: 'Decision Making', link: '/processes/decision-making' }
         ]
       },
