@@ -21,7 +21,16 @@ You have the final call on technical decisions for your project. You don't need 
 
 Trust your judgment. You're close to the code, the software, and the user interface. You understand what should happen.
 
-For design decisions, coordinate with the design lead early—before implementation, not after.
+### Consult Early
+
+Some decisions require early consultation to avoid rework and leverage existing patterns:
+
+| If your project involves... | Consult with... | Why |
+|-----------------------------|-----------------|-----|
+| **UX or UI work** | Design Lead | Ensure design consistency and get proper specs before implementation |
+| **Infrastructure changes** | Infrastructure Architect | Identify infra impact, existing patterns, and resources that can accelerate your project |
+
+Reach out at the **start** of your project, not when you're blocked. These conversations help you move faster, not slower.
 
 ## Core Responsibilities
 

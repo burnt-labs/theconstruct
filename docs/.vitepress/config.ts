@@ -23,7 +23,8 @@ export default defineConfig({
       {
         text: 'Roles',
         items: [
-          { text: 'Project Lead', link: '/roles/project-lead' }
+          { text: 'Project Lead', link: '/roles/project-lead' },
+          { text: 'Infrastructure Architect', link: '/roles/infrastructure-architect' }
         ]
       },
       {
