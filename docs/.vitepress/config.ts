@@ -9,7 +9,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Principles', link: '/principles/' },
       { text: 'Roles', link: '/roles/project-lead' },
-      { text: 'Processes', link: '/processes/project-updates' },
+      { text: 'Processes', link: '/processes/linear' },
       { text: 'Culture', link: '/culture/asking-for-help' }
     ],
 
@@ -29,6 +29,7 @@ export default defineConfig({
       {
         text: 'Processes',
         items: [
+          { text: 'Using Linear', link: '/processes/linear' },
           { text: 'Project Updates', link: '/processes/project-updates' },
           { text: 'Decision Making', link: '/processes/decision-making' }
         ]

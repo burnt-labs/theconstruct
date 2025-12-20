@@ -4,52 +4,74 @@
 >
 > — [We Ship Experiences, Not Code](/principles/#we-ship-experiences-not-code)
 
-As a project lead, you own your project from start to production. This is both a responsibility and an empowerment.
+As a project lead, you have **full ownership** of your project. This is both a responsibility and an empowerment.
 
-## You Have the Final Call
+## How You Become a Project Lead
 
-You are the technical decision-maker for your project. You don't need to wait for approval on:
+You're the project lead if you're assigned as the **Lead** on a project in Linear. That's it. The assignment is the authority.
+
+## Ownership & Decision-Making
+
+You have the final call on technical decisions for your project. You don't need to wait for approval on:
 
 - Architecture choices
 - Implementation approaches
 - Technical trade-offs
 - Tool and library selection
 
-If you're the lead, it's your call.
+Trust your judgment. You're close to the code, the software, and the user interface. You understand what should happen.
 
-## Your Responsibilities
+For design decisions, coordinate with the design lead early—before implementation, not after.
 
-### Get It to Production
+## Core Responsibilities
 
-Your job is to shepherd the project all the way to production. Not just "code complete" but actually shipped, working, and in users' hands.
+### Deliver to Production
 
-### Keep Status Updated
+Your primary responsibility is to get your project all the way to production. This includes:
 
-Update your project status in Linear weekly. This includes:
+- Breaking down the work into manageable tasks
+- Ensuring quality through code review and testing
+- Coordinating with other team members as needed
+- Driving the project to completion
 
-- Current progress
-- Any blockers
-- Risk level (on track, at risk, off track)
+Remember: we ship experiences, not code. A tool that ships on time and does the job is a success. Code that's late or ships without purpose is not.
 
-See [Project Updates](/processes/project-updates) for details.
+### Communicate Status
 
-### Raise the Flag
+Keep the team informed about your project's progress. [Kitchen Communication](/principles/#kitchen-communication) means we overcommunicate—it's praised, not a cause for embarrassment.
 
-If something is bigger than expected, or you're blocked, say something. Raising the flag is **not** a failure. It's good leadership.
+- **Update Linear weekly**: Post project updates so the team has visibility into current status
+- **Use project channels**: Communicate in shared channels rather than DMs—we don't silo information
+- **Flag blockers early**: If something is bigger than expected or you're blocked, surface it immediately. We're in the best position to help the quicker we know about it.
+- **Clear ambiguity**: If directions or requirements are unclear, make an educated decision and communicate that decision back out
 
-Signs you should raise the flag:
-- Scope is larger than initially estimated
-- You've been stuck on something for more than a day
-- Dependencies are blocking you
-- You need skills or knowledge you don't have
+See [Project Updates](/processes/project-updates) for details on posting updates.
 
-### Bring People In
+### Ask for Help
 
-You can and should bring in help when needed. You're the lead, not a solo act. Coordinate with teammates, delegate tasks, pair program.
+You don't have to do everything alone. As [Crewmates](/principles/#crewmates):
 
-### Coordinate with Design
+- Bring in teammates when you need support
+- If your workload is unsustainable, speak up—time wasted is always worse than a bruised ego
+- Feeling blocked by teammates should not be common. If it is, raise it.
+- In an emergency, others can take over. Nothing should be blocked on a single person.
 
-For design decisions, work with the design lead. Reach out early on UI/UX work rather than after implementation.
+### Support Your Teammates
+
+When you have capacity:
+
+- Be available to help others on their projects, especially when your work overlaps
+- Respond to requests for help in a timely manner
+- Share context and knowledge that might be useful to others
+
+### Build for Speed
+
+Look for opportunities to [accelerate](/principles/#acceleration) delivery:
+
+- Automate anything that requires repeated manual work or guidance
+- Build or adopt tools that allow the team to deliver faster
+- Bias toward outside tooling if it does the job, so we can focus on core differentiators
+- Bias toward deprecating things that don't bring continued value
 
 ## What This Means for Everyone
 
