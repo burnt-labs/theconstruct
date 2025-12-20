@@ -19,8 +19,8 @@ Cancelling a project is not a failure—it's a decision. Continuing to invest in
 
 ### How to Cancel
 
-1. **Communicate the decision** - Announce in the project channel and update Linear. Don't let it quietly fade.
-2. **Document the why** - Leave a clear note explaining why the project was cancelled. Future you will thank you.
+1. **Communicate the decision** - Announce in the project channel. Don't let it quietly fade.
+2. **Update Linear** - Set project status to **Canceled** with a comment explaining why. Future you will thank you.
 3. **Clean up** - Close related issues, archive branches, remove any half-deployed infrastructure.
 4. **Capture learnings** - If there's anything valuable from the work, document it or extract it before archiving.
 
@@ -30,7 +30,7 @@ Sometimes a project needs to pause rather than cancel—priorities shift, depend
 
 ### How to Pause
 
-1. **Mark status in Linear** - Set project to "Paused" or "On Hold" with a clear update explaining why.
+1. **Mark status in Linear** - Set project to **Blocked** with a comment explaining it's paused and why.
 2. **Document current state** - Where did you leave off? What's the next step when it resumes?
 3. **Set a check-in date** - Don't let paused projects drift indefinitely. Set a date to revisit.
 4. **Communicate** - Let stakeholders know the project is paused and why.
@@ -66,11 +66,11 @@ The new lead should:
 2. **Post an update** - Announce the transition and any changes to approach.
 3. **Ask questions** - Don't assume—reach out to the previous lead if anything is unclear.
 
-## Archiving Completed Projects
+## Completing Projects
 
 When a project ships, close it out properly:
 
-1. **Mark as complete in Linear** - Update status and add a final summary.
+1. **Mark as Completed in Linear** - Set status to **Completed** and add a final summary.
 2. **Celebrate the win** - Share in Slack. We ship experiences—acknowledge it.
 3. **Capture learnings** - What went well? What would you do differently?
 4. **Clean up** - Close stale issues, merge or delete branches, remove temporary infrastructure.

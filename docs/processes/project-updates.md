@@ -32,15 +32,17 @@ Every active project needs a status update **at least once per week**.
    - Any blockers or risks
    - Overall status (on track / at risk / off track)
 
-### Status Levels
+### Project Statuses
+
+Use Linear's project statuses to reflect current state:
 
 | Status | When to Use |
-|--------|------------|
-| **On Track** | Progress is normal, no blockers |
-| **At Risk** | Potential issues, might slip |
-| **Off Track** | Blocked, slipped, or needs intervention |
+|--------|-------------|
+| **In Progress** | Actively being worked on |
+| **Blocked** | Cannot proceed—add a comment explaining why |
+| **External Partner Building** | Waiting on external party |
 
-**Don't be afraid to mark something At Risk or Off Track.** This is how we get help to where it's needed.
+**Don't be afraid to mark something Blocked.** This is how we get help to where it's needed. See [Using Linear](/processes/linear) for all statuses.
 
 ## Where Updates Show Up
 
