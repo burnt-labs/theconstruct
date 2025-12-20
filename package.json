@@ -1,0 +1,14 @@
+{
+  "name": "engineering-construct",
+  "version": "1.0.0",
+  "description": "XION Engineering Team Playbook - Processes, principles, and culture documentation",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.5.0"
+  }
+}
