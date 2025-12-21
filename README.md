@@ -26,3 +26,13 @@ Then open http://localhost:5173
 npm run build
 npm run preview
 ```
+
+## Deploy
+
+Deployed to Cloudflare Workers.
+
+```bash
+npm run deploy
+```
+
+First time setup requires `wrangler login` to authenticate with Cloudflare.
