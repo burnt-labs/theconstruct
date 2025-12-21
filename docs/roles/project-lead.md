@@ -27,8 +27,8 @@ Some decisions require early consultation to avoid rework and leverage existing 
 
 | If your project involves... | Consult with... | Why |
 |-----------------------------|-----------------|-----|
-| **UX or UI work** | Design Lead | Ensure design consistency and get proper specs before implementation |
-| **Infrastructure changes** | Infrastructure Architect | Identify infra impact, existing patterns, and resources that can accelerate your project |
+| **UX or UI work** | [UX Design](/roles/design-engineer) | Ensure design consistency and get proper specs before implementation |
+| **Infrastructure changes** | [Infrastructure](/roles/infrastructure-architect) | Identify infra impact, existing patterns, and resources that can accelerate your project |
 
 Reach out at the **start** of your project, not when you're blocked. These conversations help you move faster, not slower.
 

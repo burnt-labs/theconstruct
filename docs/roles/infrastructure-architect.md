@@ -1,4 +1,4 @@
-# Infrastructure Architect
+# Infrastructure
 
 > "Automation is an investment that pays off forever."
 >

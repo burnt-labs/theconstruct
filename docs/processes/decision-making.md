@@ -10,11 +10,11 @@ Clear ownership of decisions prevents bottlenecks and empowers the team.
 
 | Decision Type | Who Decides |
 |---------------|-------------|
-| **Technical decisions** | Project Lead |
-| **Architecture choices** | Project Lead |
-| **Implementation approach** | Project Lead |
-| **Design / UI / UX** | Design Lead |
-| **Infrastructure** | Infrastructure Architect |
+| **Technical decisions** | [Project Lead](/roles/project-lead) |
+| **Architecture choices** | [Project Lead](/roles/project-lead) |
+| **Implementation approach** | [Project Lead](/roles/project-lead) |
+| **Design / UI / UX** | [UX Design](/roles/design-engineer) |
+| **Infrastructure** | [Infrastructure](/roles/infrastructure-architect) |
 | **Product direction** | Product team |
 
 ## Technical Decisions: Project Lead
@@ -40,7 +40,7 @@ Escalation is not weakness. It's judgment.
 
 ## Design Decisions
 
-For anything UI/UX related, coordinate with the Design Lead. Reach out **early** in the process:
+For anything UI/UX related, coordinate with [UX Design](/roles/design-engineer). Reach out **early** in the process:
 - Before implementing UI components
 - When making UX trade-offs
 - For visual consistency questions
@@ -49,7 +49,7 @@ Don't finish a feature and then ask "does this look right?" Start the design con
 
 ## Infrastructure Decisions
 
-For anything that touches infrastructure, coordinate with the Infrastructure Architect. Reach out **early** to:
+For anything that touches infrastructure, coordinate with [Infrastructure](/roles/infrastructure-architect). Reach out **early** to:
 - Identify impact on existing infrastructure
 - Discover patterns and resources that can accelerate your project
 - Avoid rework from misaligned approaches
