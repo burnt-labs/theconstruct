@@ -20,7 +20,7 @@ Cancelling a project is not a failure—it's a decision. Continuing to invest in
 ### How to Cancel
 
 1. **Communicate the decision** - Announce in the project channel. Don't let it quietly fade.
-2. **Update Linear** - Set project status to **Canceled** with a comment explaining why. Future you will thank you.
+2. **Update Linear** - Set project status to **Canceled** and post an update explaining why. Future you will thank you.
 3. **Clean up** - Close related issues, archive branches, remove any half-deployed infrastructure.
 4. **Capture learnings** - If there's anything valuable from the work, document it or extract it before archiving.
 
@@ -30,7 +30,7 @@ Sometimes a project needs to pause rather than cancel—priorities shift, depend
 
 ### How to Pause
 
-1. **Mark status in Linear** - Set project to **Blocked** with a comment explaining it's paused and why.
+1. **Mark status in Linear** - Set project to **Blocked** and post an update explaining it's paused and why.
 2. **Document current state** - Where did you leave off? What's the next step when it resumes?
 3. **Set a check-in date** - Don't let paused projects drift indefinitely. Set a date to revisit.
 4. **Communicate** - Let stakeholders know the project is paused and why.

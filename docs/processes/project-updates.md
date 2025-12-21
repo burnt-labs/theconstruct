@@ -39,7 +39,7 @@ Use Linear's project statuses to reflect current state:
 | Status | When to Use |
 |--------|-------------|
 | **In Progress** | Actively being worked on |
-| **Blocked** | Cannot proceed—add a comment explaining why |
+| **Blocked** | Cannot proceed—post an update explaining why |
 | **External Partner Building** | Waiting on external party |
 
 **Don't be afraid to mark something Blocked.** This is how we get help to where it's needed. See [Using Linear](/processes/linear) for all statuses.

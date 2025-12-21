@@ -38,7 +38,7 @@ Examples: bug fixes, small features, technical debt, spikes.
 | **Backlog** | Scoped but not yet scheduled |
 | **Planned** | Scheduled to start |
 | **In Progress** | Actively being worked on |
-| **Blocked** | Cannot proceed—add a comment explaining why |
+| **Blocked** | Cannot proceed—post an update explaining why |
 | **External Partner Building** | Waiting on external party |
 | **Completed** | Shipped and done |
 | **Canceled** | Will not be completed (see [Project Lifecycle](/processes/project-lifecycle)) |

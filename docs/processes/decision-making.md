@@ -15,7 +15,6 @@ Clear ownership of decisions prevents bottlenecks and empowers the team.
 | **Implementation approach** | [Project Lead](/roles/project-lead) |
 | **Design / UI / UX** | [UX Design](/roles/design-engineer) |
 | **Infrastructure** | [Infrastructure](/roles/infrastructure-architect) |
-| **Product direction** | Product team |
 
 ## Technical Decisions: Project Lead
 
