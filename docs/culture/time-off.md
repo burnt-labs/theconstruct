@@ -14,7 +14,10 @@ We respect that holidays vary by country and culture. Take the holidays that mat
 
 Whether it's vacation, holidays, or any other time off:
 
-- **Block your calendar** - Mark time off as "Out of Office" in your calendar so the team knows you're unavailable.
+- **Block your calendar**
+  - Create an "Out of Office" event in your calendar
+  - Select "Automatically decline meetings" and choose "New and existing meetings"
+  - Copy your OOO event to the org-wide out of office calendar
 - **Communicate ahead** - Let your team know before you're out, especially for extended time off.
 - **Hand off active work** - If you're leading a project, ensure coverage or pause updates (see [Project Lifecycle](/processes/project-lifecycle)).
 - **Disconnect** - When you're off, be off. Don't check Slack.
