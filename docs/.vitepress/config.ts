@@ -41,7 +41,8 @@ export default defineConfig({
         text: 'Culture',
         items: [
           { text: 'Asking for Help', link: '/culture/asking-for-help' },
-          { text: 'Communication', link: '/culture/communication' }
+          { text: 'Communication', link: '/culture/communication' },
+          { text: 'Time Off', link: '/culture/time-off' }
         ]
       }
     ],
