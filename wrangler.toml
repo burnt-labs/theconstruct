@@ -1,6 +1,9 @@
 name = "the-construct"
 compatibility_date = "2024-12-01"
 
+[build]
+command = "npm run build"
+
 routes = [
   { pattern = "construct.burnt.com", custom_domain = true }
 ]
