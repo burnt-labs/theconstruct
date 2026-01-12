@@ -2,7 +2,7 @@ name = "the-construct"
 compatibility_date = "2024-12-01"
 
 routes = [
-  { pattern = "construct.burnt.zone", custom_domain = true }
+  { pattern = "construct.burnt.com", custom_domain = true }
 ]
 
 [assets]
